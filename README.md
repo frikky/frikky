@@ -1,9 +1,9 @@
 # Hey, I'm Frikky 
-I build things, primarily in Go, Python and React. My focus and specialty is security, but I dabble in fundraising, fintech and a few more areas as well. Talk to me about AI, automation, blue teaming or general coding.
+I build things, primarily in Go, Python and React. My focus and specialty is security, but I dabble in fundraising, fintech and a few more areas as well. Talk to me about AI, automation, startups, blue teaming and mentorship (both ways :cyclone:)
 
 :zap: What I'm doing now :zap:
 * :raising_hand: [Frikky.com](https://frikky.com) - about me
-* :ocean: [Shuffle](https://shuffler.io) - automation for everyone
-* :ticket: [Niceable](https://niceable.co) - fundraising
+* :ocean: [Shuffle](https://shuffler.io) - automating all the things 
+* :pray: [Niceable](https://niceable.co) - fundraising with prizedraws
 
 Wanna hire me? [frikky@shuffler.io](mailto:frikky@shuffler.io)
