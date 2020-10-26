@@ -6,4 +6,4 @@ I build things, primarily in Go, Python and Javascript. My focus and specialty i
 * :ocean: [Shuffle](https://shuffler.io) - automating all the things 
 * :pray: [Niceable](https://niceable.co) - fundraising with prizedraws
 
-Wanna hire me? [frikky@shuffler.io](mailto:frikky@shuffler.io)
+Wanna hire me or [sponsor me](https://github.com/sponsors/frikky/)? [frikky@shuffler.io](mailto:frikky@shuffler.io)
