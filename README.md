@@ -7,4 +7,4 @@ I build things. Talk to me about automation, AI, startups, programming, forensic
 * :test_tube: [Schemaless](https://github.com/frikky/schemaless) - writing a general purpose translation engine for standards in cybersecurity 
 * 📖 Learning mechanical- & electrical engineering as well as building physics simulations
 
-Got any questions about me/Shuffle? [frikky@shuffler.io](mailto:frikky@shuffler.io)
+Got any questions about me/Shuffle? frikky at shuffler dot io
